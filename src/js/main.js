@@ -16,9 +16,9 @@ window.addEventListener("DOMContentLoaded", () => {
   );
   tabs(
     ".balcon_icons",
-    ".balcons_icons_img",
+    ".balcon_icons_img",
     ".big_img > img",
-    ".do_image_more",
+    "do_image_more",
     "inline-block"
   );
 
