@@ -1,3 +1,3 @@
 Irvas Windows - JavaScript Project
 
-JavaScript, PHP
+The project was created using JavaScript, PHP.
